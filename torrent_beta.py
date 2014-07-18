@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 #title :news_pb.py
 #description :get last torrents from ThePirateBay or do a research.
-#author :pirateboxge@gmail.com
+#author :bukowski@openmailbox.org
 #date :20130902
 #version :0.1
 #usage :python news_pb.py
